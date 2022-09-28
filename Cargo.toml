@@ -3,6 +3,13 @@ name = "kanshi-rs"
 version = "0.1.0"
 edition = "2021"
 
+authors = ["Kodai Takihara <tt7t9kk9y1aaa@gmail.com>"]
+repository = "https://github.com/tatatakky/kanshi-rs"
+keywords = ["monitoring"]
+license-file = "LICENSE"
+readme = "README.md"
+description = "kanshi is a simple tool like Monit for monitoring file timestamp."
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
